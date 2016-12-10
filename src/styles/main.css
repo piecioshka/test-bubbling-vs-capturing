@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body {
+    font-family: Verdana, serif;
+}
+
+h1 {
+    border-bottom: 1px solid;
+    margin-top: 0;
+}
+
+select {
+    font-size: 15px;
+}
+
+div {
+    background: whitesmoke;
+    padding: 50px;
+    display: flex;
+    border: 3px solid lightgray;
+    float: left;
+
+    transition: 0.7s all;
+}
+
+div > div > button {
+    padding: 20px 50px;
+    line-height: 50px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    background: darkgrey;
+    border: 3px solid grey;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+
+    transition: 0.5s all;
+}
+
+.click {
+    border: 3px solid red;
+    background-color: indianred;
+}
