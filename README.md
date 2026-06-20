@@ -12,4 +12,4 @@ http://piecioshka.github.io/test-bubbling-vs-capturing
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2016
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
